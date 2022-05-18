@@ -8,3 +8,5 @@
 - 👀 Check out my portfolio: https://TheDevCodingKen.github.io/  
 - 😄 Pronouns: He/Him/His/Himself
 - ⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
+
+![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDevCodingKen&theme=algolia&show_icons=true)
