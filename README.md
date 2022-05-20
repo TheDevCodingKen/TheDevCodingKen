@@ -1,6 +1,6 @@
 ### Hi, I'm Ken. Welcome! 👋🏾
 
-- 🔭 I’m currently working as an apprentice Software Developer.
+- 🔭 I work as an apprentice Software Developer.
 - 🌱 I’m currently learning HTML, CSS, ES5, ES6, Node.js, ReactJS and Python. 
 - 📫 How to reach me:
   * http://www.linkedin.com/in/kenv
