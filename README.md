@@ -1,7 +1,7 @@
 ### Hi, I'm Ken. Welcome! 👋🏾
 
 - 🔭 I work as an apprentice Software Developer.
-- 🌱 I’m currently learning the MERN JS Stack (HTML, HTML5, CSS, ES5, ES6, Node.js, Express.js, MongoDB, React) and Python. 
+- 🌱 I’m currently learning the MERN JS Stack (HTML, HTML5, CSS, ES5, ES6, Node.js, Express.js, MongoDB, React). 
 - 📫 How to reach me:
   * http://www.linkedin.com/in/kenv
   * https://twitter.com/TheDevCodingKen
