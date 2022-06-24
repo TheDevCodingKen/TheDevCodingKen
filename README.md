@@ -1,11 +1,9 @@
 ### Hi, I'm Ken. Welcome! 👋🏾
 
 - 🔭 I work as an apprentice Software Developer.
-- 🌱 I’m currently learning the MERN JS Stack (HTML, CSS, ES5, ES6, Node.js, Express.js, MongoDB, React). 
-- 📫 How to reach me:
-  * http://www.linkedin.com/in/kenv
-  * https://twitter.com/TheDevCodingKen
-- 👀 Check out my portfolio: https://TheDevCodingKen.github.io/  
+- 🌱 I’m currently learning the MERN JS Stack (HTML/CSS, ES5, ES6, Node.js, Express.js, MongoDB, React.js). 
+- 📫 How to reach me and learn more about me: https://linktr.ee/TheDevCodingKen
+- 👀 Check out my portfolio: https://TheDevCodingKen.github.io
 - 😄 Pronouns: He/Him/His/Himself
 - ⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
