@@ -2,8 +2,8 @@
 
 - 🔭 I work as an apprentice Web Developer || Software Engineer.
 - 🌱 I’m currently learning the MERN JavaScript Stack (Node.js, Express.js, MongoDB, React.js). 
-- 📫 How to reach me and learn more about me: https://linktr.ee/TheDevCodingKen
-- 👀 Check out my portfolio: https://TheDevCodingKen.github.io
+- 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
+- 👀 [Check out my developer projects and repositories.](https://TheDevCodingKen.github.io)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I previously worked in the entertainment industry because I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
