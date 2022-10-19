@@ -32,6 +32,11 @@
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/></a>
 </p>
 
+### My WakaTime Coding Activity:
+<p align="center">
+<img src="https://wakatime.com/share/@TheDevCodingKen/f0de46e6-ee9b-4e0c-93a9-9d20e5de02ed.svg">
+</p>
+
 ### My GitHub Stats:
 
 <h3 align="center">
@@ -40,8 +45,3 @@
   <img align="center" src="https://github-readme-stats.thedevcodingken.vercel.app/api?username=TheDevCodingKen&theme=algolia&show_icons=true)" />
 </a>
 </h3>
-
-### My WakaTime Coding Activity:
-<p align="center">
-<img src="https://wakatime.com/share/@TheDevCodingKen/f0de46e6-ee9b-4e0c-93a9-9d20e5de02ed.svg">
-</p>
