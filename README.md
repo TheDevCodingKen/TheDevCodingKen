@@ -41,7 +41,7 @@
 </a>
 </h3>
 
-### My WakaTime Stats:
+### My WakaTime Coding Activity:
 <p align="center">
 <img src="https://wakatime.com/share/@TheDevCodingKen/f0de46e6-ee9b-4e0c-93a9-9d20e5de02ed.svg">
 </p>
