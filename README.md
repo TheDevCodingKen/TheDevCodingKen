@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <p align="left">
- <a href="https://linkedin.com/in/thedevcodingken" target="blank">
+ <a href="https://linkedin.com/in/thedevcodingken" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="thedevcodingken" /></a>
  <a href="https://twitter.com/thedevcodingken" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
