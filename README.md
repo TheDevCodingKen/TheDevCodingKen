@@ -36,6 +36,8 @@
 <p>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="70" height="70"/></a>
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm.js" width="70" height="70"/></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+  alt="Git" width="70" height="70"/></a>
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/></a>
 </p>
 
@@ -48,7 +50,8 @@
 
 <h3 align="center">
 <a href="https://github.com/TheDevCodingKen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.thedevcodingken.vercel.app/api/top-langs/?username=TheDevCodingKen&layout=compact" />
   <img align="center" src="https://github-readme-stats.thedevcodingken.vercel.app/api?username=TheDevCodingKen&theme=algolia&show_icons=true)" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=TheDevCodingKen&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.thedevcodingken.vercel.app/api/top-langs/?username=TheDevCodingKen&layout=compact&theme=algolia" />
 </a>
 </h3>
