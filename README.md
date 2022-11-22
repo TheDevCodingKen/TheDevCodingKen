@@ -3,7 +3,7 @@
 - 🔭 I work as an apprentice Web Developer || Software Engineer.
 - 🌱 I’m currently learning the MERN JavaScript Stack (Node.js, Express.js, MongoDB, React.js). 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
-- 👀 [Check out my developer projects and repositories.](https://codingken.netlify.app/)
+- 👀 [Check out my developer portfolio.](https://codingken.dev/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I previously worked in the entertainment industry because I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
