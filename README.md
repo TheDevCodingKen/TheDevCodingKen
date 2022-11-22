@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="FscKtGNr9FhtKO7F6JX0py_fleDaenj827Abbb02SE8" />
+
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
 - 🔭 I work as an apprentice Web Developer || Software Engineer.
