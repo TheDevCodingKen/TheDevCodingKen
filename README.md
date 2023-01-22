@@ -45,7 +45,8 @@
 
 ### My WakaTime Coding Activity:
 <p align="center">
-<img src="https://wakatime.com/share/@TheDevCodingKen/f0de46e6-ee9b-4e0c-93a9-9d20e5de02ed.svg">
+ <img width="1143" alt="2022 WakaTime Code Stats" src="https://user-images.githubusercontent.com/93670654/213935701-4fcca73a-37a5-46bf-becb-0e12bd7f93ce.png">
+ <img src="https://wakatime.com/share/@TheDevCodingKen/f0de46e6-ee9b-4e0c-93a9-9d20e5de02ed.svg">
 </p>
 
 ### My GitHub Stats:
