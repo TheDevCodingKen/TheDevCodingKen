@@ -37,6 +37,7 @@
 
 <p>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="70" height="70"/></a>
+ <a href="https://brew.sh/" target="_blank" rel="noreferrer"> <img src="https://brew.sh/assets/img/homebrew-256x256.png" alt="Homebrew" width="70" height="70"/></a>
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm.js" width="70" height="70"/></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
   alt="Git" width="70" height="70"/></a>
