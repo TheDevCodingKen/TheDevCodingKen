@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-- 🔭 I work as an apprentice Web Developer || Software Engineer.
+- 🔭 I'm a Web Developer & Software Engineer.
 - 🌱 I’m currently learning the MERN JavaScript Stack (Node.js, Express.js, MongoDB, React.js). 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
 - 👀 [Check out my developer portfolio.](https://codingken.dev/)
