@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-- 🔭 I'm a Web Developer & Software Engineer.
-- 🌱 I’m currently learning the MERN JavaScript Stack (Node.js, Express.js, MongoDB, React.js). 
+- 🔭 I'm a Web Developer & Systems Engineer.
+- 🌱 I’m focused on mastering JavaScript & Python. 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
 - 👀 [Check out my developer portfolio.](https://codingken.dev/)
 - 😄 Pronouns: He/Him/His
