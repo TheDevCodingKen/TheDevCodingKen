@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
 - 🔭 I'm an Associate Systems Engineer & Developer.
-- 🌱 I’m focused on mastering Python and infrastructer engineering. 
+- 🌱 I’m focused on mastering Python and infrastructure engineering. 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
 - 👀 [Check out my developer portfolio.](https://codingken.dev/)
 - 😄 Pronouns: He/Him/His
