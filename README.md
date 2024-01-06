@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
 - 🔭 I'm an Associate Solutions Engineer & Developer.
-- 🌱 I’m focused on mastering Python and infrastructure engineering. 
+- 🌱 I’m focused on mastering Python and solutions engineering. 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
 - 👀 [Check out my developer portfolio.](https://codingken.dev/)
 - 😄 Pronouns: He/Him/His
@@ -43,12 +43,6 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
   alt="Git" width="70" height="70"/></a>
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/></a>
-</p>
-
-### My WakaTime Coding Activity:
-<p align="center">
- <img width="1143" alt="2022 WakaTime Code Stats" src="https://user-images.githubusercontent.com/93670654/213935701-4fcca73a-37a5-46bf-becb-0e12bd7f93ce.png">
- <img src="https://wakatime.com/share/@TheDevCodingKen/f0de46e6-ee9b-4e0c-93a9-9d20e5de02ed.svg">
 </p>
 
 ### My GitHub Stats:
