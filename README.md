@@ -5,7 +5,7 @@
 - 🔭 I'm a coder by trade.
 - 🌱 I’m focused on mastering Python and cloud-based application development. 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
-- 👀 [Check out my developer portfolio.](https://codingken.dev/)
+- 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I previously worked in the entertainment industry because I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
