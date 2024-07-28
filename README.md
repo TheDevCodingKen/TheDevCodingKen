@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-- 🔭 I'm a programmer by trade.
+- 🔭 I'm a programmer by trade and a Cloud Technologist.
 - 🌱 I’m focused on mastering Python and cloud-based application development. 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
 - 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)
