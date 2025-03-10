@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-- 🔭 I'm a software enginner by trade and a cloud computing enthusiast.
-- 🌱 I’m focused on sharpening my technical skillset. 
-- 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
-- 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I previously worked in the entertainment industry because I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
+🔭 I'm a software enginner by trade and a cloud computing enthusiast.<br>
+🌱 I’m focused on sharpening my technical skillset.<br> 
+📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)<br>
+👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)<br>
+😄 Pronouns: He/Him/His<br>
+⚡ Fun fact: I previously worked in the entertainment industry because I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
 ### Connect with me:
 <p align="left">
