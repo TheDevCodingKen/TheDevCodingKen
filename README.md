@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-- 🔭 I'm a programmer by trade and a Cloud Technologist.
-- 🌱 I’m focused on mastering Python and cloud-based application development. 
+- 🔭 I'm a software enginner by trade and a cloud computing enthusiast.
+- 🌱 I’m focused on sharpening my technical skillset. 
 - 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)
 - 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)
 - 😄 Pronouns: He/Him/His
