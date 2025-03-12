@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-🔭 I'm a software enginner by trade and a cloud computing enthusiast.<br>
+🔭 I'm a software engineer by trade and a cloud computing enthusiast.<br>
 🌱 I’m focused on sharpening my technical skillset.<br> 
 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)<br>
 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)<br>
@@ -17,7 +17,9 @@
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-### Programming Languages, Libraries, Frameworks & Tools:
+### Programming Languages, Markup Languages, Libraries, Frameworks & Tools:
+<details>
+<summary>Click to expand</summary>
 <p>
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,13 +46,23 @@
   alt="Git" width="70" height="70"/></a>
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/></a>
 </p>
+</details>
 
 ### My GitHub Stats:
-
+<details>
+<summary>Click to expand</summary>
 <h3 align="center">
 <a href="https://github.com/TheDevCodingKen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.thedevcodingken.vercel.app/api?username=TheDevCodingKen&theme=algolia&show_icons=true)" />
-  <img align="center" src="https://streak-stats.demolab.com/?user=TheDevCodingKen&theme=algolia"/>
-  <img align="center" src="https://github-readme-stats.thedevcodingken.vercel.app/api/top-langs/?username=TheDevCodingKen&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-zeta-tan-78.vercel.app/api?username=TheDevCodingKen&theme=algolia&show_icons=true)" />
+  <img align="center" src="https://github-readme-streak-stats-pearl-six.vercel.app?user=TheDevCodingKen&theme=algolia&exclude_days=Sun%2CSat)" />
+  <img align="center" src="https://github-readme-stats-zeta-tan-78.vercel.app/api/top-langs/?username=TheDevCodingKen&layout=donut&theme=algolia&count-private=true&hide_progress=true" />
 </a>
-</h3>
+</details>
+
+### My Wakatime Stats:
+<details>
+<summary>Click to expand</summary>
+<h3 align="center">
+<a href="https://github.com/TheDevCodingKen/github-readme-stats">
+ <img align="center" src="https://github-readme-stats-zeta-tan-78.vercel.app/api/wakatime?username=TheDevCodingKen&theme=algolia&layout=compact" />
+</a>
