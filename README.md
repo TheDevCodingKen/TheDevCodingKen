@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-🔭 I'm a software engineer by trade and a cloud computing enthusiast.<br>
+🔭 I'm a software engineer and a cloud computing enthusiast.<br>
 🌱 I’m focused on sharpening my technical skillset.<br> 
 📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)<br>
 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)<br>
