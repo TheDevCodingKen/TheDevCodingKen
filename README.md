@@ -62,7 +62,7 @@
 </a>
 </details>
 
-### My Wakatime Stats:
+### My WakaTime Stats:
 <details>
 <summary>Click to expand</summary>
 <h3 align="center">
