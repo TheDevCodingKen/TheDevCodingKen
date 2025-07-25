@@ -59,11 +59,3 @@
   <img align="center" src="https://github-readme-streak-stats-pearl-six.vercel.app?user=TheDevCodingKen&theme=algolia&exclude_days=Sun%2CSat" />
 </a>
 </details>
-
-### My WakaTime Stats:
-<details>
-<summary>Click to expand</summary>
-<h3 align="center">
-<a href="https://github.com/TheDevCodingKen/github-readme-stats">
- <img align="center" src="https://github-readme-stats-zeta-tan-78.vercel.app/api/wakatime?username=TheDevCodingKen&theme=algolia&layout=compact" />
-</a>
