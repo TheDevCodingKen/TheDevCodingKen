@@ -2,12 +2,15 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-🔭 I'm a software engineer and a cloud computing enthusiast.<br>
-🌱 I’m focused on sharpening my technical skillset.<br> 
-📫 [Click here to message me.](https://linktr.ee/TheDevCodingKen)<br>
+👨🏾‍💻 I'm a software engineer.<br>
+
+💼 I’m focused on enhancing my technical skills.<br> 
+
+📫 [Click here to e-mail me.](https://linktr.ee/TheDevCodingKen)<br>
+
 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)<br>
-😄 Pronouns: He/Him/His<br>
-⚡ Fun fact: I previously worked in the entertainment industry because I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
+
+⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
 ### Connect with me:
 <p align="left">
@@ -15,7 +18,11 @@
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="thedevcodingken" /></a>
 </p>
 
-### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
+### My Verifiable Competencies and Skills:
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+ ### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
 <details>
 <summary>Click to expand</summary>
 <p>
