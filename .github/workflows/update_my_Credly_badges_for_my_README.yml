@@ -1,4 +1,4 @@
-name: Update my Credly badges
+name: Update my Credly badges for my README.md
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   update_my_Credly_badges:
-    name: Update README with Credly Badges
+    name: Update my README with my Credly Badges
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,4 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: ${{ github.actor }} # Uses your GitHub username
-          NUMBER_LAST_BADGES: 4 # Show last 4 badges (0 = all)
+          NUMBER_LAST_BADGES: 7 # Show last 4 badges (0 = all)
