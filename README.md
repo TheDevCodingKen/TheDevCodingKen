@@ -13,7 +13,7 @@
 ⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
 
-### Latest Digital Certifications:
+### Latest Verified Skills and Digital Certifications:
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/1b8aeabf-b7f6-40b4-9192-5149b012f68b" title="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management"><img src="https://images.credly.com/size/80x80/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png" alt="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b86c1585-1389-4d51-9f9d-113941777b68" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
