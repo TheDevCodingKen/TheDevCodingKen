@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-👨🏾‍💻 I'm a software engineer.<br>
+👨🏾‍💻 I'm a software developer.<br>
 
 💼 I’m focused on enhancing my technical skills.<br> 
 
