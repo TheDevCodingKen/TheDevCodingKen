@@ -15,13 +15,13 @@
 
 ### Latest Verified Skills and Digital Certifications:
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/1b8aeabf-b7f6-40b4-9192-5149b012f68b" title="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management"><img src="https://images.credly.com/size/80x80/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png" alt="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b86c1585-1389-4d51-9f9d-113941777b68" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1b8aeabf-b7f6-40b4-9192-5149b012f68b" title="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management"><img src="https://images.credly.com/size/80x80/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png" alt="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5653a2c5-afed-442a-ab0a-12ffeb89000b" title="Trustworthy AI and AI Ethics"><img src="https://images.credly.com/size/80x80/images/25d0ed8f-02ee-4277-bf8f-2dacfe123a79/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Trustworthy AI and AI Ethics" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/4e4fce09-3fd7-45a0-91a5-74eb297124d9" title="Enterprise Design Thinking - Team Essentials for AI"><img src="https://images.credly.com/size/80x80/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="Enterprise Design Thinking - Team Essentials for AI" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b29ad67b-cf24-47d7-9714-286042dae1f0" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9f0a14d6-38f9-4cf0-82c6-1df1354b804b" title="Big Data with Spark and Hadoop Essentials"><img src="https://images.credly.com/size/80x80/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" alt="Big Data with Spark and Hadoop Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5a508097-b711-49b4-bf5a-47dec1afadfe" title="Git and GitHub Essentials"><img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and GitHub Essentials" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/3e301ef6-f7e4-4698-a5a3-8c6e4275acb5" title="Cloud Essentials"><img src="https://images.credly.com/size/80x80/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Cloud Essentials" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
  ### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
