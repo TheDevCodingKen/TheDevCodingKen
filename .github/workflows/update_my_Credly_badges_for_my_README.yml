@@ -17,4 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: ${{ github.actor }} # Uses your GitHub username
-          NUMBER_LAST_BADGES: 7 # Show last 4 badges (0 = all)
+          NUMBER_LAST_BADGES: 8 # Show last 8 badges (0 = all)
