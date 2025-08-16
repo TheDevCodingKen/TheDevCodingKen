@@ -22,7 +22,7 @@
 <a href="https://www.credly.com/badges/1b8aeabf-b7f6-40b4-9192-5149b012f68b" title="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management"><img src="https://images.credly.com/size/80x80/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png" alt="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5653a2c5-afed-442a-ab0a-12ffeb89000b" title="Trustworthy AI and AI Ethics"><img src="https://images.credly.com/size/80x80/images/25d0ed8f-02ee-4277-bf8f-2dacfe123a79/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Trustworthy AI and AI Ethics" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4e4fce09-3fd7-45a0-91a5-74eb297124d9" title="Enterprise Design Thinking - Team Essentials for AI"><img src="https://images.credly.com/size/80x80/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="Enterprise Design Thinking - Team Essentials for AI" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/277f2f9a-3b36-407f-acd5-988721f99f9f" title="IBM Event Streams Developer Essentials"><img src="https://images.credly.com/size/80x80/images/5b87a0f8-bb4e-4fe9-adbd-7fd6145398df/image.png" alt="IBM Event Streams Developer Essentials" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1a9ef852-91ef-47d1-85b1-bfa135e6f215" title="IBM watsonx.data Technical Essentials"><img src="https://images.credly.com/size/80x80/images/55db4a16-b62e-4031-a7fc-124e4aa2d1e2/IBM_20watsonxdata_20Technical_20Essentials.png" alt="IBM watsonx.data Technical Essentials" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
  ### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
