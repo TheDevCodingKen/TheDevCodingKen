@@ -15,6 +15,7 @@
 
 ### Latest Verified Skills and Digital Certifications:
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/fa6eb1f0-d18e-4389-8fde-82eab51b5948" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b29ad67b-cf24-47d7-9714-286042dae1f0" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f3bff7bd-be25-4302-8cd9-11914681d873" title="Data Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/c0b439e5-79d5-498e-abc9-2b71cdf08c34/image.png" alt="Data Engineering Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9f0a14d6-38f9-4cf0-82c6-1df1354b804b" title="Big Data with Spark and Hadoop Essentials"><img src="https://images.credly.com/size/80x80/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" alt="Big Data with Spark and Hadoop Essentials" width="80" height="80"></a>
@@ -22,7 +23,6 @@
 <a href="https://www.credly.com/badges/1b8aeabf-b7f6-40b4-9192-5149b012f68b" title="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management"><img src="https://images.credly.com/size/80x80/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png" alt="Power Skills - Resilience, Growth Minded, Learning Agility, Time Management" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5653a2c5-afed-442a-ab0a-12ffeb89000b" title="Trustworthy AI and AI Ethics"><img src="https://images.credly.com/size/80x80/images/f1411598-a6f0-44ed-b2ed-762f9b50639b/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Trustworthy AI and AI Ethics" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4e4fce09-3fd7-45a0-91a5-74eb297124d9" title="Enterprise Design Thinking - Team Essentials for AI"><img src="https://images.credly.com/size/80x80/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="Enterprise Design Thinking - Team Essentials for AI" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c0397a0a-4857-4bbd-b835-948ec102e595" title="Spark - Level 1"><img src="https://images.credly.com/size/80x80/images/06cb0d8e-06f7-4f5e-9265-359e37008fcd/blob" alt="Spark - Level 1" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
  ### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
