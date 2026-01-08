@@ -70,6 +70,11 @@
 </a>
 </details>
 
+### My 2025 Coding Stats:
+<details>
+<img width="1147" height="529" alt="Code Stats for 2025" src="https://github.com/user-attachments/assets/4565739f-9af8-4a4a-864f-d8291540607e" />
+</details>
+
 ### Connect with me:
 <p align="left">
  <a href="https://linkedin.com/in/thedevcodingken" target="_blank">
