@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update my profile's stats cards within my README
 
 on:
   schedule:
@@ -27,10 +27,18 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
 
+      - name: Generate Streak Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: user=${{ github.repository_owner }}&theme=algolia&exclude_days=Sun%2CSat
+          path: profile/streak.svg
+          token: ${{ secrets.GH_TOKEN }}
+
       - name: Commit and Push with Retries
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update GitHub README stats" || exit 0
+          git commit -m "Update My GitHub README stats cards" || exit 0
           for i in 1 2 3; do git push & break || sleep 10; done
