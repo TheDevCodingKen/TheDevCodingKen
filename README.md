@@ -63,7 +63,6 @@
 <details>
 <summary>Click to expand</summary>
 <h3 align="center">
-<a href="https://github.com/TheDevCodingKen/github-readme-stats">
  
   ![Top Langs](./profile/top-langs.svg)
   ![Stats](./profile/stats.svg)
