@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
 
       - name: Generate Streak Card
-        uses: DenverCoder1/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           github-token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
           user: ${{ github.repository_owner }}
