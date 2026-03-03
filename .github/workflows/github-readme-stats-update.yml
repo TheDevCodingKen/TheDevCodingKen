@@ -28,12 +28,14 @@ jobs:
           token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
 
       - name: Generate Streak Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: DenverCoder1/github-readme-streak-stats@v2
         with:
-          card: streak
-          options: user=${{ github.repository_owner }}&theme=algolia&exclude_days=Sun%2CSat
-          path: profile/streak.svg
-          token: ${{ secrets.GH_TOKEN }}
+          github-token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
+          user: ${{ github.repository_owner }}
+          mode: manual 
+          theme: algolia
+          exclude-days: Sun, Sat
+          filename: profile/streak
 
       - name: Commit and Push with Retries
         run: |
