@@ -27,16 +27,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
 
-      - name: Generate Streak Card
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          github-token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
-          user: ${{ github.repository_owner }}
-          mode: manual 
-          theme: algolia
-          exclude-days: Sun, Sat
-          filename: profile/streak
-
       - name: Commit and Push with Retries
         run: |
           git config --global user.name "github-actions[bot]"
