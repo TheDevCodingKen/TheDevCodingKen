@@ -64,8 +64,9 @@
 <summary>Click to expand</summary>
 <h3 align="center">
 <a href="https://github.com/TheDevCodingKen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-zeta-tan-78.vercel.app/api/top-langs/?username=TheDevCodingKen&layout=donut&theme=algolia&count-private=true&hide_progress=true" />
-  <img align="center" src="https://github-readme-stats-zeta-tan-78.vercel.app/api?username=TheDevCodingKen&theme=algolia&show_icons=true&hide_rank=true" />
+ 
+  ![Top Langs](./profile/top-langs.svg)
+  ![Stats](./profile/stats.svg)
   <img align="center" src="https://github-readme-streak-stats-pearl-six.vercel.app?user=TheDevCodingKen&theme=algolia&exclude_days=Sun%2CSat" />
 </a>
 </details>
