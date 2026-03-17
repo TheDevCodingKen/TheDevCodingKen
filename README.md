@@ -12,6 +12,7 @@
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ### Latest Verified Skills and Digital Certifications:
