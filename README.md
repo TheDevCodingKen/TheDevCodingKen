@@ -4,8 +4,6 @@
 
 👨🏾‍💻 I'm a software developer.<br>
 
-💼 I’m focused on enhancing my technical skills.<br> 
-
 📫 [Click here to e-mail me.](https://linktr.ee/TheDevCodingKen)<br>
 
 👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)<br>
