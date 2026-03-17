@@ -12,13 +12,6 @@
 
 ---
 
-### My Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
 ### Latest Verified Skills and Digital Certifications:
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/9ae3cf8c-c30d-4a37-973b-945e1ad4979b" title="IBM Software Engineer Apprenticeship (v.1)"><img src="https://images.credly.com/size/80x80/images/f3690605-1f15-4874-ba3c-23cbe52e5d7e/ApprenticeAcad-Soft_Eng_-_Updated.png" alt="IBM Software Engineer Apprenticeship (v.1)" width="80" height="80"></a>
