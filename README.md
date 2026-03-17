@@ -10,6 +10,9 @@
 
 ⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
+### My Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### Latest Verified Skills and Digital Certifications:
 <!--START_SECTION:badges-->
