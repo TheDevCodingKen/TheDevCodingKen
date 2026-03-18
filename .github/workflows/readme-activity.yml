@@ -1,22 +1,27 @@
 name: Update public events within README
+
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:   # Allows manual trigger
+
+permissions:
+    contents: write   # Crucial for allowing the bot to commit to the README
+
 jobs:
   build:
-    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update my public events  
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_FOR_MY_GH_ACTIVITY_EVENTS }}
         with:
-          COMMIT_MSG: "⚡ Update README with my recent activity"
+          COMMIT_MSG: "⚡ Update README with my recent activity [skip ci]"
           MAX_LINES: 5
-          COMMIT_NAME: GitHub Activity
+          COMMIT_NAME: "TheDevCodingKen (Bot)"
+          COMMIT_EMAIL: "TheDevCodingKen@users.noreply.github.com"
           EMPTY_COMMIT_MSG: 📝 this is an empty commit to keep workflow active after 60 days of no activity
