@@ -12,7 +12,7 @@
 
 ---
 
-### My Contributions
+### 🚀 My Latest Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#16359](https://github.com/ansible/awx/pull/16359) in [ansible/awx](https://github.com/ansible/awx)
@@ -34,6 +34,8 @@
 <a href="https://www.credly.com/badges/c5219d26-f59b-4fce-b7a5-02eba7719ae8" title="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service"><img src="https://images.credly.com/size/80x80/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob" alt="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c6e7bd60-dede-4b26-963d-053b2be11c8f" title="Simplifying Data Pipelines with Apache Kafka"><img src="https://images.credly.com/size/80x80/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" alt="Simplifying Data Pipelines with Apache Kafka" width="80" height="80"></a>
 <!--END_SECTION:badges-->
+
+---
 
  ### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
 <details>
@@ -69,6 +71,8 @@
 </p>
 </details>
 
+---
+
 ### My GitHub Stats:
 <details>
 <summary>Click to expand</summary>
@@ -84,6 +88,8 @@
 <details>
 <img width="1147" height="529" alt="Code Stats for 2025" src="https://github.com/user-attachments/assets/4565739f-9af8-4a4a-864f-d8291540607e" />
 </details>
+
+---
 
 ### Connect with me:
 <p align="left">
