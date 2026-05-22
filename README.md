@@ -25,14 +25,14 @@
 
 ### Latest Verified Skills and Digital Certifications:
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/9ae3cf8c-c30d-4a37-973b-945e1ad4979b" title="IBM Software Engineer Apprenticeship (v.1)"><img src="https://images.credly.com/size/80x80/images/f3690605-1f15-4874-ba3c-23cbe52e5d7e/ApprenticeAcad-Soft_Eng_-_Updated.png" alt="IBM Software Engineer Apprenticeship (v.1)" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/56e8338d-cff7-4a61-a1ff-946da334c308" title="Generative AI: Foundation Models and Platforms"><img src="https://images.credly.com/size/80x80/images/b22dfb96-cd34-485c-ac03-2fc027e892cb/image.png" alt="Generative AI: Foundation Models and Platforms" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/83185874-57ce-4575-8190-60a023ef6eca" title="Generative AI: Prompt Engineering"><img src="https://images.credly.com/size/80x80/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="Generative AI: Prompt Engineering" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/b29ad67b-cf24-47d7-9714-286042dae1f0" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/48ca6500-5e61-47ab-8ee0-e5829629a58a" title="LFS158: Introduction to Kubernetes"><img src="https://images.credly.com/size/80x80/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/0a6f8566-efdf-4895-8935-3c30874a965a" title="Containers & Kubernetes Essentials"><img src="https://images.credly.com/size/80x80/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png" alt="Containers & Kubernetes Essentials" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c5219d26-f59b-4fce-b7a5-02eba7719ae8" title="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service"><img src="https://images.credly.com/size/80x80/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob" alt="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c6e7bd60-dede-4b26-963d-053b2be11c8f" title="Simplifying Data Pipelines with Apache Kafka"><img src="https://images.credly.com/size/80x80/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" alt="Simplifying Data Pipelines with Apache Kafka" width="80" height="80"></a>
+[![IBM Software Engineer Apprenticeship (v.1)](https://images.credly.com/size/80x80/images/f3690605-1f15-4874-ba3c-23cbe52e5d7e/ApprenticeAcad-Soft_Eng_-_Updated.png)](https://www.credly.com/badges/9ae3cf8c-c30d-4a37-973b-945e1ad4979b)
+[![Generative AI: Foundation Models and Platforms](https://images.credly.com/size/80x80/images/b22dfb96-cd34-485c-ac03-2fc027e892cb/image.png)](https://www.credly.com/badges/56e8338d-cff7-4a61-a1ff-946da334c308)
+[![Generative AI: Prompt Engineering](https://images.credly.com/size/80x80/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png)](https://www.credly.com/badges/83185874-57ce-4575-8190-60a023ef6eca)
+[![Python for Data Science and AI](https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](https://www.credly.com/badges/b29ad67b-cf24-47d7-9714-286042dae1f0)
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/80x80/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/badges/48ca6500-5e61-47ab-8ee0-e5829629a58a)
+[![Containers & Kubernetes Essentials](https://images.credly.com/size/80x80/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png)](https://www.credly.com/badges/0a6f8566-efdf-4895-8935-3c30874a965a)
+[![Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/80x80/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob)](https://www.credly.com/badges/c5219d26-f59b-4fce-b7a5-02eba7719ae8)
+[![Simplifying Data Pipelines with Apache Kafka](https://images.credly.com/size/80x80/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob)](https://www.credly.com/badges/c6e7bd60-dede-4b26-963d-053b2be11c8f)
 <!--END_SECTION:badges-->
 
 ---
