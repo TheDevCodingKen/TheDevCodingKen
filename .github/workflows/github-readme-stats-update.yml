@@ -17,7 +17,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&theme=algolia&show_icons=true&hide_rank=true
           path: profile/stats.svg
-          token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
         uses: stats-organization/github-readme-stats-action@v2
@@ -25,7 +25,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&theme=algolia&count-private=true&hide_progress=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_TOKEN_FOR_GITHUB_README_STATS_CARDS }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push with Retries
         run: |
