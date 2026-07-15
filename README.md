@@ -2,17 +2,15 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-👨🏾‍💻 I'm a software developer.<br>
+👨🏾‍💻 I'm a software engineer.<br>
 
 📫 [Click here to e-mail me.](https://linktr.ee/TheDevCodingKen)<br>
-
-👀 [Check out my developer portfolio.](https://www.CodingKen.dev/)<br>
 
 ⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
 
 ---
 
-### 🚀 My Latest Activity
+### 🚀 My Latest OSS Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#175](https://github.com/ansible/awx-plugins/pull/175#issuecomment-4163865152) in [ansible/awx-plugins](https://github.com/ansible/awx-plugins)
@@ -23,7 +21,7 @@
 
 ---
 
-### Latest Verified Skills and Digital Certifications:
+### Digital Credentials:
 <!--START_SECTION:badges-->
 [![IBM Software Engineer Apprenticeship (v.1)](https://images.credly.com/size/80x80/images/f3690605-1f15-4874-ba3c-23cbe52e5d7e/ApprenticeAcad-Soft_Eng_-_Updated.png)](https://www.credly.com/badges/9ae3cf8c-c30d-4a37-973b-945e1ad4979b)
 [![Generative AI: Foundation Models and Platforms](https://images.credly.com/size/80x80/images/b22dfb96-cd34-485c-ac03-2fc027e892cb/image.png)](https://www.credly.com/badges/56e8338d-cff7-4a61-a1ff-946da334c308)
@@ -34,42 +32,6 @@
 [![Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/80x80/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob)](https://www.credly.com/badges/c5219d26-f59b-4fce-b7a5-02eba7719ae8)
 [![Simplifying Data Pipelines with Apache Kafka](https://images.credly.com/size/80x80/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob)](https://www.credly.com/badges/c6e7bd60-dede-4b26-963d-053b2be11c8f)
 <!--END_SECTION:badges-->
-
----
-
- ### Markup Languages, Programming Languages, Libraries, Frameworks & Tools:
-<details>
-<summary>Click to expand</summary>
-<p>
- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/SVG-Markup?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
- <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
- <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
- <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-</p>
-
-<p>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="70" height="70"/></a>
- <a href="https://brew.sh/" target="_blank" rel="noreferrer"> <img src="https://brew.sh/assets/img/homebrew-256x256.png" alt="Homebrew" width="70" height="70"/></a>
- <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm.js" width="70" height="70"/></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
-  alt="Git" width="70" height="70"/></a>
- <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="70" height="70"/></a>
-</p>
-</details>
 
 ---
 
