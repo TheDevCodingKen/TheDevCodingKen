@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ken a.k.a. Coding Ken. Welcome! 👋🏾</h1>
 
-👨🏾‍💻 I'm a software engineer.<br>
+👨🏾‍💻 I'm a software developer.<br>
 
 📫 [Click here to e-mail me.](https://linktr.ee/TheDevCodingKen)<br>
 
