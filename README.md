@@ -13,8 +13,8 @@
 ### 🚀 My Latest OSS Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3805](https://github.com/tektoncd/operator/pull/3805) in [tektoncd/operator](https://github.com/tektoncd/operator)
-2. 🗣 Commented on [#175](https://github.com/ansible/awx-plugins/pull/175#issuecomment-4144373704) in [ansible/awx-plugins](https://github.com/ansible/awx-plugins)
+1. 🗣 Commented on [#3805](https://github.com/tektoncd/operator/pull/3805#issuecomment-5093862879) in [tektoncd/operator](https://github.com/tektoncd/operator)
+2. 💪 Opened PR [#3805](https://github.com/tektoncd/operator/pull/3805) in [tektoncd/operator](https://github.com/tektoncd/operator)
 3. 🗣 Commented on [#16359](https://github.com/ansible/awx/pull/16359#issuecomment-4084301044) in [ansible/awx](https://github.com/ansible/awx)
 4. 🗣 Commented on [#175](https://github.com/ansible/awx-plugins/pull/175#issuecomment-4084119440) in [ansible/awx-plugins](https://github.com/ansible/awx-plugins)
 <!--END_SECTION:activity-->
