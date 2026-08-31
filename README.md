@@ -6,8 +6,6 @@
 
 📫 [Click here to e-mail me.](https://linktr.ee/TheDevCodingKen)<br>
 
-⚡ Fun fact: I LOVE movies 🎬 especially action/adventure/sci-fi thrillers.
-
 ---
 
 ### 🚀 My Latest OSS Activity
