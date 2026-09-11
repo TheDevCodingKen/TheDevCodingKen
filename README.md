@@ -11,10 +11,10 @@
 ### 🚀 My Latest OSS Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3805](https://github.com/tektoncd/operator/pull/3805#issuecomment-5607801017) in [tektoncd/operator](https://github.com/tektoncd/operator)
-2. 🗣 Commented on [#3805](https://github.com/tektoncd/operator/pull/3805#issuecomment-5144836776) in [tektoncd/operator](https://github.com/tektoncd/operator)
-3. 🗣 Commented on [#3805](https://github.com/tektoncd/operator/pull/3805#issuecomment-5117064013) in [tektoncd/operator](https://github.com/tektoncd/operator)
-4. 🗣 Commented on [#3805](https://github.com/tektoncd/operator/pull/3805#issuecomment-5093862879) in [tektoncd/operator](https://github.com/tektoncd/operator)
+1. 🗣 Commented on [#3435](https://github.com/tektoncd/plumbing/issues/3435#issuecomment-5640128532) in [tektoncd/plumbing](https://github.com/tektoncd/plumbing)
+2. 💪 Opened PR [#4079](https://github.com/tektoncd/operator/pull/4079) in [tektoncd/operator](https://github.com/tektoncd/operator)
+3. 💪 Opened PR [#1951](https://github.com/tektoncd/chains/pull/1951) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 🗣 Commented on [#3805](https://github.com/tektoncd/operator/pull/3805#issuecomment-5607801017) in [tektoncd/operator](https://github.com/tektoncd/operator)
 <!--END_SECTION:activity-->
 
 ---
