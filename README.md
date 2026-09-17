@@ -11,10 +11,10 @@
 ### 🚀 My Latest OSS Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4079](https://github.com/tektoncd/operator/pull/4079#issuecomment-5667117937) in [tektoncd/operator](https://github.com/tektoncd/operator)
-2. 🗣 Commented on [#4079](https://github.com/tektoncd/operator/pull/4079#issuecomment-5667066693) in [tektoncd/operator](https://github.com/tektoncd/operator)
-3. 🗣 Commented on [#3435](https://github.com/tektoncd/plumbing/issues/3435#issuecomment-5640128532) in [tektoncd/plumbing](https://github.com/tektoncd/plumbing)
-4. 💪 Opened PR [#4079](https://github.com/tektoncd/operator/pull/4079) in [tektoncd/operator](https://github.com/tektoncd/operator)
+1. 🗣 Commented on [#1951](https://github.com/tektoncd/chains/pull/1951#issuecomment-5717635846) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 🗣 Commented on [#4079](https://github.com/tektoncd/operator/pull/4079#issuecomment-5667117937) in [tektoncd/operator](https://github.com/tektoncd/operator)
+3. 🗣 Commented on [#4079](https://github.com/tektoncd/operator/pull/4079#issuecomment-5667066693) in [tektoncd/operator](https://github.com/tektoncd/operator)
+4. 🗣 Commented on [#3435](https://github.com/tektoncd/plumbing/issues/3435#issuecomment-5640128532) in [tektoncd/plumbing](https://github.com/tektoncd/plumbing)
 <!--END_SECTION:activity-->
 
 ---
