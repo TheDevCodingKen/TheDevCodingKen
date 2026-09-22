@@ -11,10 +11,10 @@
 ### 🚀 My Latest OSS Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2145](https://github.com/tektoncd/triggers/pull/2145) in [tektoncd/triggers](https://github.com/tektoncd/triggers)
-2. 💪 Opened PR [#429](https://github.com/tektoncd/pruner/pull/429) in [tektoncd/pruner](https://github.com/tektoncd/pruner)
-3. 💪 Opened PR [#1499](https://github.com/tektoncd/results/pull/1499) in [tektoncd/results](https://github.com/tektoncd/results)
-4. 🗣 Commented on [#1951](https://github.com/tektoncd/chains/pull/1951#issuecomment-5717635846) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. 🗣 Commented on [#2145](https://github.com/tektoncd/triggers/pull/2145#issuecomment-5779205909) in [tektoncd/triggers](https://github.com/tektoncd/triggers)
+2. 💪 Opened PR [#2145](https://github.com/tektoncd/triggers/pull/2145) in [tektoncd/triggers](https://github.com/tektoncd/triggers)
+3. 💪 Opened PR [#429](https://github.com/tektoncd/pruner/pull/429) in [tektoncd/pruner](https://github.com/tektoncd/pruner)
+4. 💪 Opened PR [#1499](https://github.com/tektoncd/results/pull/1499) in [tektoncd/results](https://github.com/tektoncd/results)
 <!--END_SECTION:activity-->
 
 ---
